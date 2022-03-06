@@ -1,1 +1,1 @@
-# javascript_jest_testing_practice
+# JavaScript Practice test with Jest
